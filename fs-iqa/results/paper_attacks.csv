@@ -1,0 +1,5 @@
+attack,iterations,epsilon,undefended_relative_score_increase_percent,fs_iqa_relative_score_increase_percent,source
+PGD,10,0.05,52,19,Main paper Figure 3
+PGD,100,0.1,106,22,Main paper Figure 3
+PGD-EOT,10,0.05,71,22,Main paper Figure 3
+PGD-EOT,20,0.1,92,28,Main paper Figure 3

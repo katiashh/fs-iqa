@@ -1,0 +1,7 @@
+method,with_intervals_and_input_radius_seconds,score_only_seconds,backbone,hardware,source_table
+RS-Reg,56.3,28.3,KonCept,NVIDIA A100,3
+Cert-Reg,56.7,28.2,KonCept,NVIDIA A100,3
+MS,2.2,2.0,KonCept,NVIDIA A100,3
+DMS,4.0,3.8,KonCept,NVIDIA A100,3
+DMS-IQA,4.0,3.8,KonCept,NVIDIA A100,3
+FS-IQA,22.3,0.2,KonCept,NVIDIA A100,3

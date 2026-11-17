@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use FS-IQA, please cite the accompanying paper."
+type: software
+title: "FS-IQA: Robust Image Quality Assessment via Feature-Space Smoothing"
+authors:
+  - family-names: Shumitskaya
+    given-names: Ekaterina
+  - family-names: Vatolin
+    given-names: Dmitriy
+  - family-names: Antsiferova
+    given-names: Anastasia
+repository-code: "https://github.com/katiashh/fs-iqa"
+version: 0.1.0
+preferred-citation:
+  type: conference-paper
+  title: "Robust Image Quality Assessment via Feature-Space Smoothing"
+  authors:
+    - family-names: Shumitskaya
+      given-names: Ekaterina
+    - family-names: Vatolin
+      given-names: Dmitriy
+    - family-names: Antsiferova
+      given-names: Anastasia
+  year: 2026
+  conference:
+    name: British Machine Vision Conference

@@ -1,0 +1,4 @@
+# Inspect the included CSV without PyTorch, checkpoints, or a GPU.
+numpy>=1.24,<3
+scipy>=1.10,<2
+pandas>=2.0,<3

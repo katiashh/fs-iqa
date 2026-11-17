@@ -1,0 +1,12 @@
+{
+  "rows": 1000,
+  "valid_score_mos_pairs": 1000,
+  "src": 0.8675683687712737,
+  "mean_reported_interval_width": 0.0019378777444362635,
+  "mean_reported_input_radius": 0.0020464988138295848,
+  "finite_interval_rows": 1000,
+  "reversed_interval_rows": 0,
+  "median_outside_reported_interval_rows": 0,
+  "source": "results/results_on_koniq_subset.csv",
+  "note": "Descriptive statistics of supplied values; this does not validate certificates."
+}

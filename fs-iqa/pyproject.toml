@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fs-iqa"
+version = "0.1.0"
+description = "Robust Image Quality Assessment via Feature-Space Smoothing"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  {name = "Ekaterina Shumitskaya"},
+  {name = "Dmitriy Vatolin"},
+  {name = "Anastasia Antsiferova"},
+]
+dependencies = [
+  "numpy>=1.24,<3",
+  "scipy>=1.10,<2",
+  "pandas>=2.0,<3",
+  "Pillow>=10",
+  "opencv-python-headless>=4.8",
+  "tqdm>=4.65",
+  "torch>=2.1",
+  "torchvision>=0.16",
+]
+
+[project.scripts]
+fs-iqa-eval = "fs_iqa.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["fs_iqa*"]

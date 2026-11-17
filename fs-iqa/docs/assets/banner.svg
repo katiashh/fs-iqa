@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="FS-IQA: Robust Image Quality Assessment via Feature-Space Smoothing">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#18344b"/></linearGradient><linearGradient id="line"><stop stop-color="#38dacb"/><stop offset="1" stop-color="#8dacec"/></linearGradient></defs>
+<rect width="1280" height="340" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#49798e" opacity=".25"><circle cx="1125" cy="162" r="192"/><circle cx="1125" cy="162" r="148"/><circle cx="1125" cy="162" r="104"/></g>
+<rect x="52" y="47" width="128" height="28" rx="14" fill="#204d5c"/><text x="116" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#86f0df">BMVC 2026</text>
+<text x="52" y="155" font-family="Arial,sans-serif" font-size="76" font-weight="700" fill="#ffffff">FS-IQA</text>
+<text x="55" y="204" font-family="Arial,sans-serif" font-size="29" fill="#e3edf6">Robust Image Quality Assessment</text>
+<text x="55" y="243" font-family="Arial,sans-serif" font-size="29" fill="#82e9dc">via Feature-Space Smoothing</text>
+<rect x="55" y="281" width="48" height="3" rx="1.5" fill="url(#line)"/>
+<text x="119" y="289" font-family="Arial,sans-serif" font-size="16" fill="#b9cad8">Perceptual features · Median smoothing · Robustness estimation</text>
+<g transform="translate(943 100)"><rect width="174" height="131" rx="18" fill="#163e53" stroke="#528d9f"/><g fill="#63ddca"><circle cx="38" cy="36" r="7"/><circle cx="72" cy="36" r="7"/><circle cx="106" cy="36" r="7"/><circle cx="140" cy="36" r="7"/><circle cx="38" cy="66" r="7" opacity=".4"/><circle cx="72" cy="66" r="7" opacity=".6"/><circle cx="106" cy="66" r="7" opacity=".9"/><circle cx="140" cy="66" r="7" opacity=".5"/></g><path d="M25 105 Q85 62 149 105" fill="none" stroke="#b5d2fa" stroke-width="3"/></g>
+</svg>
