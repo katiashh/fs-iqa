@@ -20,11 +20,6 @@ local input-space radius.
 - **One backbone pass for score inference:** 0.2 s/image for KonCept on NVIDIA A100 in the paper's timing experiment.
 - **Clear guarantee scope:** median-smoothing bounds are in feature space; the implemented input-space radii are empirical estimates.
 
-> **Release contents.** This package includes the DBCNN demo, an edited CLI,
-> the original code, a 1,000-row results CSV, and both PDFs. Trained FS-IQA
-> weights, training code, attack scripts, and implementations for the other
-> backbones were not included in the supplied supplementary archive.
-
 ## Method
 
 ![FS-IQA pipeline from Figure 1: frozen backbone, FTN, Gaussian feature noise, scorer, median smoothing, and IVE](docs/assets/overview.png)
