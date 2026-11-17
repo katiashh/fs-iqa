@@ -43,8 +43,8 @@ IVE computes empirical local estimates.*
 For `B = FTN ∘ backbone`, the smoothed predictor is
 
 ```math
-S(x) = \operatorname{median}_{\eta \sim \mathcal{N}(0,\sigma_f^2 I)}
-\operatorname{Scorer}(B(x)+\eta),
+S(x) = \underset{\eta \sim \mathcal{N}(0,\sigma_f^2 I)}{\mathrm{median}}
+\,\mathrm{Scorer}(B(x)+\eta),
 \qquad \delta_f = \kappa\sigma_f.
 ```
 
